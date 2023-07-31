@@ -1,0 +1,14 @@
+{
+    "user": "dev-alyqator",
+    "password": "Jef!Z37;",
+    "server": "10.1.1.36",
+    "database": "test-database",
+    "options": {
+        "trustedConnection": true,
+        "encrypt": true,
+        "enableArithAbort": true,
+        "trustServerCertificate": true
+    },
+    "API": "http://localhost:3000/",
+    "HOST": 5000
+}
